@@ -3,9 +3,9 @@
 A lightweight, elegant user style snippet designed to clean up the YouTube desktop interface, remove distractions, and provide a polished viewing experience.
 
 ## ✨ Features
-- **Clean Background Gradient:** Replaces the default background with a soft, modern gradient (`#ffffff` to `#e2e8f0`)[cite: 1].
-- **Distraction-Free:** Automatically hides the YouTube Shorts feed and annoying suggestion headers[cite: 1].
-- **Optimized Layout Grid:** Adjusts the grid configuration to display precisely **4 video cards per row** for better space utilization[cite: 1].
+- **Clean Background Gradient:** Replaces the default background with a soft, modern gradient (`#ffffff` to `#e2e8f0`).
+- **Distraction-Free:** Automatically hides the YouTube Shorts feed and annoying suggestion headers.
+- **Optimized Layout Grid:** Adjusts the grid configuration to display precisely **4 video cards per row** for better space utilization.
 
 ---
 
@@ -27,5 +27,5 @@ Install the Stylus extension from the official links below:
 ---
 
 ## 🤝 Contributing
-Feel free to fork this repository, submit issues, or create pull requests if you want to suggest improvements or add more custom tweaks[cite: 1]!
+Feel free to fork this repository, submit issues, or create pull requests if you want to suggest improvements or add more custom tweaks!
 ## Support: [@zensunet](https://github.com/zensunet)
