@@ -1,0 +1,31 @@
+/* --------------------------------------------------------------------------------------------------*/
+/* for background gradient white color. */
+html, body, ytd-app {
+    background: linear-gradient(0deg, #ffffff 0%, #f1f5f9 50%, #e2e8f0 100%) !important;
+    background-attachment: fixed !important;
+    background-color: transparent !important;
+} 
+
+/* --------------------------------------------------------------------------------------------------*/
+/* for removes shorts feed. */
+ytd-rich-section-renderer.style-scope {
+	display: none;
+}
+
+/* --------------------------------------------------------------------------------------------------*/
+/* for remove content suggesion header. */
+#header {
+	display: none;
+}
+
+/* --------------------------------------------------------------------------------------------------*/
+/* to remove top header div box. */
+#frosted-glass {
+	height: 0px !important;
+}
+
+/* --------------------------------------------------------------------------------------------------*/
+/* to show how many card showed in a row. */
+div.ytd-rich-grid-renderer {
+	--ytd-rich-grid-items-per-row: 4;
+}
