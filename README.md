@@ -10,7 +10,6 @@ A lightweight, elegant user style snippet designed to clean up the YouTube deskt
 ---
 
 ## 📥 Installation & Download
-# Support: @zensunet
 
 To use this CSS snippet, you need a user styles manager browser extension like **Stylus**. Follow the steps below to get set up:
 
@@ -31,3 +30,4 @@ Install the Stylus extension for your preferred browser from the official links 
 
 ## 🤝 Contributing
 Feel free to fork this repository, submit issues, or create pull requests if you want to suggest improvements or add more custom tweaks[cite: 1]!
+## # Support: [ @zensunet ] (https://github.com/zensunet)
