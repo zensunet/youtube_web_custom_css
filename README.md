@@ -21,7 +21,7 @@ Install the Stylus extension from the official links below:
 1. Click on the Stylus extension icon in your browser toolbar.
 2. Click **Manage** or create a new style.
 3. Set the target URL/domain to match `youtube.com`.
-4. Copy and paste the code from [`youtube_web_custom.css`](./youtube_web_custom.css) into the editor[cite: 1].
+4. Copy and paste the code from [`youtube_web_custom.css`](./youtube_web_custom.css) into the editor.
 5. Save the style and refresh your YouTube tab!
 
 ---
