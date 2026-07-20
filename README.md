@@ -14,10 +14,8 @@ A lightweight, elegant user style snippet designed to clean up the YouTube deskt
 To use this CSS snippet, you need a user styles manager browser extension like **Stylus**. Follow the steps below to get set up:
 
 ### 1. Download & Install Stylus
-Install the Stylus extension for your preferred browser from the official links below:
-- [📥 Install Stylus for Chrome / Chromium (Chrome Web Store)](https://chromewebstore.google.com/detail/stylus/clngdbkpkpeebahjckkjgbafafhfcpli)
-- [📥 Install Stylus for Firefox (Mozilla Add-ons)](https://addons.mozilla.org/en-US/firefox/addon/styl-us/)
-- [📥 Install Stylus for Edge (Microsoft Edge Addons)](https://microsoftedge.microsoft.com/addons/detail/stylus/clngdbkpkpeebahjckkjgbafafhfcpli)
+Install the Stylus extension from the official links below:
+- [📥 Install Stylus for Chrome / Chromium (Chrome Web Store)](https://chromewebstore.google.com/detail/clngdbkpkpeebahjckkjfobafhncgmne?utm_source=item-share-cb)
 
 ### 2. Apply the CSS
 1. Click on the Stylus extension icon in your browser toolbar.
