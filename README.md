@@ -30,4 +30,4 @@ Install the Stylus extension for your preferred browser from the official links 
 
 ## 🤝 Contributing
 Feel free to fork this repository, submit issues, or create pull requests if you want to suggest improvements or add more custom tweaks[cite: 1]!
-## # Support: [ @zensunet ] (https://github.com/zensunet)
+## Support: [@zensunet](https://github.com/zensunet)
